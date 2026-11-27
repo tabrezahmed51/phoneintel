@@ -37,7 +37,7 @@ setup(
     install_requires=[
         'colorama==0.4.6',
         'phonenumbers==8.13.42',
-        'requests==2.32.3',
+        'requests==2.33.0',
         'beautifulsoup4==4.12.3',
     ],
     entry_points={
